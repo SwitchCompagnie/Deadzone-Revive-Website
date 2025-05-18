@@ -1,0 +1,52 @@
+@media only screen and (min-width: 80em) {
+    .fight-rebuild-survive {
+        background: none;
+    }
+}
+
+#wrapper {
+    background: url(../images/dead-zone_bg.jpg) no-repeat center 1px;
+    min-height: 735px;
+}
+
+.featured {
+    position: relative;
+    height: 195px;
+}
+
+.zombie {
+    position: absolute;
+    margin-top: -30px;
+    margin-left: 15px;
+}
+
+.no-border {
+    border: none;
+}
+
+.hero {
+    padding: 14px 14px 0px 14px;
+}
+
+.hero .content-inner {
+    border: 1px solid #313131;
+    background: url(../images/dead-zone_play-now_bg.jpg) no-repeat;
+}
+
+.hero .large-4 {
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+@media (max-width: 768px) {
+    .hero .large-4 {
+        padding-left: 0px;
+    }
+}
+
+.hero .button {
+    padding: 20px 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-family: Roboto Condensed;
+}
