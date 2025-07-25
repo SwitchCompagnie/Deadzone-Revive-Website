@@ -9,7 +9,7 @@
         <a href="{{ route('policy') }}">Privacy Policy</a>
       </li>
     </ul>
-    <p>Made In {{ now()->year }}. Switch Compagnie - Revive Forever.</p>
+    <p>Made In {{ now()->year }}. Ruby Realms Studios [BY SWITCH COMPAGNIE] - Revive Forever.</p>
     <a class="footer-logo" href="#" class="th">
       <i class="fa-solid fa-users"></i>
     </a>

@@ -24,7 +24,7 @@
           <a href="http://forum.deadzonegame.net/" target="_blank">Support</a>
         </li>
         <li class="last">
-          <a href="https://buymeacoffee.com/sulivanm">Donations</a>
+          <a href="http://status.deadzonegame.net/">Status</a>
         </li>
       </ul>
       <ul class="right">

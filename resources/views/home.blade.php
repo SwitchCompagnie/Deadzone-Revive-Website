@@ -107,26 +107,6 @@
     </div>
   </div>
 </div>
-<script>
-    Swal.fire({
-    title: 'Disclaimer',
-    html: `
-        <strong>The Last Stand: Dead Zone Revive</strong> is not affiliated with Con Artist Games or Armor Games.<br><br>
-        We are simply a group of passionate fans dedicated to reviving and preserving the legacy of closed game projects.<br><br>
-        Our goal is to create a community where players can relive their favorite experiences.<br><br>
-        If you have any issues, feel free to contact us at <a href="mailto:support@deadzonegame.net">support@deadzonegame.net</a>.
-    `,
-    icon: 'info',
-    confirmButtonText: 'Understood',
-    confirmButtonColor: '#3085d6',
-    background: '#161a1c',
-    color: '#aebbc5',
-    width: '800px',
-    padding: '30px',
-    backdrop: 'rgba(0, 0, 0, 0.7)',
-    showCloseButton: true,
-    iconColor: '#fff',
-});
-</script>
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sulivanm" data-description="Support me on Buy me a coffee!" data-message="Buy me a coffee to support !" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 @endsection
